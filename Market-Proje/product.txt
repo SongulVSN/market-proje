@@ -1,0 +1,21 @@
+Ekmek, Unlu Mamuller, 5, 150
+Sut, Sut Urunleri, 25, 80
+Yogurt, Sut Urunleri, 30, 60
+Peynir, Sut Urunleri, 40, 50
+Zeytin, Kahvaltilik, 45, 40
+Bal, Kahvaltilik, 60, 30
+Recel, Kahvaltilik, 50, 35
+Makarna, Bakliyat, 15, 120
+Pirinc, Bakliyat, 35, 100
+Mercimek, Bakliyat, 20, 90
+Cay, Icecek, 40, 75
+Kahve, Icecek, 50, 50
+Su, Icecek, 5, 200
+Tuz, Temel Gida, 10, 150
+Seker, Temel Gida, 15, 140
+Biskuvi, Atistirmalik, 20, 100
+Kraker, Atistirmalik, 15, 120
+Elma, Meyve, 35, 80
+Armut, Meyve, 40, 60
+Domates, Sebze, 25, 70
+Gazoz, Icecek, 12, 100
